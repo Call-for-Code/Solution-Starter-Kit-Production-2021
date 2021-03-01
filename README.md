@@ -2,7 +2,7 @@
 
 [![License](https://img.shields.io/badge/License-Apache2-blue.svg)](https://www.apache.org/licenses/LICENSE-2.0) [![Slack](https://img.shields.io/badge/Join-Slack-blue)](https://callforcode.org/slack) [![Website](https://img.shields.io/badge/View-Website-blue)](https://code-and-response.github.io/Project-Sample/)
 
-A template for Call for Code starter kits which help understand a real-world challenge under the Climate Change theme in 2021. These templates can be used to capture the output of the Design Thinking workshop in February and demonstrate a potential technology solution for that problem.
+Worldwide economic production and consumption rest on the use of the natural environment and resources in a way that continues to have destructive impacts on the planet. Economic and social progress over the last century has been accompaniedby environmental degradation that is endangering the very systems on which our future development depends.  The United Nations has established Sustainable Development Goal 12to help ensure the world moves towards sustainable consumption and production patterns. This goal is about systemic change, decoupling economic growth from environmental degradation and applying a lifecycle thinking approach, taking into account all phases of resource use to do more and better with less. It is also about increasing resource efficiency and promoting sustainable lifestyles. It can also contribute substantially to poverty alleviation and the transition towards low-carbon and green economies. Production and consumption of goods and services should drive economic growth and improve quality of life, but with fewer natural resources and less environmental impact across the life cycle.
 
 ## Contents
 
@@ -12,7 +12,7 @@ A template for Call for Code starter kits which help understand a real-world cha
 1. [Getting started](#getting-started)
 1. [Contributing](#contributing)
 1. [Versioning](#versioning)
-1. [Authors](#authors)
+1. [Authors](#contributors)
 1. [License](#license)
 1. [Acknowledgments](#acknowledgments)
 
@@ -20,28 +20,39 @@ A template for Call for Code starter kits which help understand a real-world cha
 
 ### What's the problem?
 
-Part of the World Health Organization's guidance on limiting further spread of COVID-19 is to practice social distancing. As a result, schools in most affected areas are taking precautionary measures by closing their facilities. With school-aged children at home for an indeterminate amount of time,  keeping them engaged, entertained, and on top of their education is important.
+Recycling and recovery: One of the more pressing challenges in addressing waste and shifting to a more circular economy is the increasing complexity of products. Forexample, electronics are getting smaller and more sophisticated, making recovery and reuse of materials more challenging. Product designers must consider how to create products with end of life in mind (for example, fewer components), and we need to develop the infrastructure, policies, and systems to support repair, reuse, and recycling.
 
 ### How can technology help?
 
-Schools and teachers can continue to engage with their students through virtual classrooms, and even create interactive spaces for classes. As parents face a new situation where they may need to homeschool their children, finding appropriate online resources is important as well.
+Technology can help to,
+
+- Create a transparent and trustworthy platform for trading resources and knowledge, and access to a community of experts. 
+- Enable producers and consumers to build and buy products in a sustainable way for our society:
+    - By reducing waste and increasing the use of recycled materials
+    - By improving overall repairability of products
 
 ### The idea
 
-It's imperative that learning and creating can continue when educational institutions have to shift the way they teach in times of crises, such as the COVID-19 pandemic. Providing a set of open source tools, backed by IBM Cloud and Watson Services, will enable educators to more easily make content available for their students.
+Support sustainable production with recycled materials. To do that, there are two parties involved,
 
-## Demo video
+**A producer or a manufacturer**, who can find and compare price, quality and carbon impact of recycled materials while learning about best practices for recyclable processing through a trustworthy, real-time trading platform. 
 
-[![Watch the video](https://github.com/Call-for-Code/Liquid-Prep/blob/master/images/readme/IBM-interview-video-image.png)](https://youtu.be/vOgCOoy_Bx0)
+**A Recycled material Supplier** who can Sell recycled resources directly to producers through a marketplace at competitive rates. 
 
 ## The architecture
 
-![Video transcription/translation app](https://developer.ibm.com/developer/tutorials/cfc-starter-kit-speech-to-text-app-example/images/cfc-covid19-remote-education-diagram-2.png)
+![Video transcription/translation app](images/arch.png)
 
-1. The user navigates to the site and uploads a video file. [Learn how to build apps on the IBM Cloud](#platform-development).
-2. Watson Speech to Text processes the audio and extracts the text. [Learn about IBM artificial intelligence](#artificial-intelligence).
-3. Watson Translation (optionally) can translate the text to the desired language. [Learn about IBM artificial intelligence](#artificial-intelligence).
-4. The app stores the translated text as a document within Object Storage. [Learn about IBM data science](#data-science).
+1. User interacts with a web application for the marketplace.
+2. Web app is served by a static file server running in Kubernetes. It makes requests to the back end API.
+ - React native (mobile)
+3. Express.js back end handles data requested by the web app and exposes some public endpoints for material market data through a RESTful API.
+4. Back end calls Watson Discovery for updated information on materials.
+5. Watson Discovery manages a collection of recycled and non-recycled material information, such as average prices, carbon impact and quality.
+6. Public websites are crawled by Watson Discovery for updates on current material information.
+7. Back end stores and retrieves information on material provided by users in a Cloudant NoSQL database.
+8. New Relic provides full stack observability and monitoring within the Kubernetes environment. 
+
 
 ## Getting started
 
@@ -101,9 +112,14 @@ These are the go-to documents for measuring impact and progress against the key 
 
 Please read [CONTRIBUTING.md](CONTRIBUTING.md) for details on our code of conduct, and the process for submitting pull requests.
 
-## Authors
+## Contributors
 
-* **Billie Thompson** - *Initial work* - [PurpleBooth](https://github.com/PurpleBooth)
+Conor O'Neill
+Daniel Rodrigues   
+DebjaniChatterjee 
+Dipali Chatterjee
+Georges-Henri Moll 
+Nicole Pitter Patterson
 
 See also the list of [contributors](https://github.com/Call-for-Code/Starter-Kit-Template-2021/graphs/contributors) who participated in the creation of this starter kit.
 
