@@ -41,7 +41,7 @@ Support sustainable production with recycled materials. To do that, there are tw
 
 ## The architecture
 
-![Video transcription/translation app](images/arch.png)
+![Tech architechture](./images/arch.png)
 
 1. User interacts with a web application for the marketplace.
 2. Web app is served by a static file server running in Kubernetes. It makes requests to the back end API.
@@ -114,12 +114,12 @@ Please read [CONTRIBUTING.md](CONTRIBUTING.md) for details on our code of conduc
 
 ## Contributors
 
-Conor O'Neill
-Daniel Rodrigues   
-DebjaniChatterjee 
-Dipali Chatterjee
-Georges-Henri Moll 
-Nicole Pitter Patterson
+- Conor O'Neill
+- Daniel Rodrigues   
+- DebjaniChatterjee 
+- Dipali Chatterjee
+- Georges-Henri Moll 
+- Nicole Pitter Patterson
 
 See also the list of [contributors](https://github.com/Call-for-Code/Starter-Kit-Template-2021/graphs/contributors) who participated in the creation of this starter kit.
 
