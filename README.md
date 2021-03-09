@@ -61,7 +61,7 @@ You can create a solution based on the proposed solution architecture above by e
 
 #### Watson Discovery
 
-Extract and enrich data with a powerful anaytics engine, optimizing searches with the use of Natural Language Processing.
+Extract and enrich data with a powerful analytics engine, optimizing searches with the use of Natural Language Processing.
 
 - [Create a cognitive news search app](https://developer.ibm.com/patterns/create-a-cognitive-news-search-app/)
 - [Create an app to perform intelligent searches on data](https://developer.ibm.com/patterns/create-an-app-to-perform-intelligent-searches-on-data/)
