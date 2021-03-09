@@ -43,17 +43,15 @@ Support sustainable production with recycled materials. To do that, there are tw
 
 ![Tech architechture](./images/arch.png)
 
-1. User interacts with a web application for the marketplace.
-2. Web app is served by a static file server running in Kubernetes. It makes requests to the back end API.
-
-- React native (mobile)
-
-3. Express.js back end handles data requested by the web app and exposes some public endpoints for material market data through a RESTful API.
-4. Back end calls Watson Discovery for updated information on materials.
-5. Watson Discovery manages a collection of recycled and non-recycled material information, such as average prices, carbon impact and quality.
-6. Public websites are crawled by Watson Discovery for updates on current material information.
-7. Back end stores and retrieves information on material provided by users in a Cloudant NoSQL database.
-8. New Relic provides full stack observability and monitoring within the Kubernetes environment.
+1. **User** interacts with a **web application** for the marketplace.
+2. **React** app with communication to back end APIs.
+3. **Fastify** back end handles data requested by the web app and exposes some public endpoints for material market data through a **RESTful** API.
+4. Back end queries **Watson Discovery** for updated information on materials.
+5. Watson Discovery manages a collection of recycled and non-recycled material information, such as average prices, carbon impact and quality. Discovery enriches the data with **Natural Language Processing** so it can be more easily indexed.
+6. Public websites are **crawled** by Watson Discovery for updates on current material information.
+7. Back end stores and retrieves information on material provided by users in a **Cloudant** NoSQL database.
+8. A **Kubernetes** cluster is used for a scalable, flexible, modern containerized environment.
+9. **New Relic** provides **full stack observability** and monitoring within the Kubernetes environment.
 
 ## Getting started
 
