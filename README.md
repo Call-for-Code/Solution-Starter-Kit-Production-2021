@@ -59,37 +59,30 @@ You can create a solution based on the proposed solution architecture above by e
 
 ### Resources
 
-#### Artificial intelligence
+#### Watson Discovery
 
-Use AI to create apps that accelerate, enhance, and scale the human experience.
+Extract and enrich data with a powerful anaytics engine, optimizing searches with the use of Natural Language Processing.
 
-- [Link 1](https://developer.ibm.com/callforcode/technical-library/)
-- [Link 2](https://developer.ibm.com/callforcode/technical-library/)
-- [Link 3](https://developer.ibm.com/callforcode/technical-library/)
+- [Create a cognitive news search app](https://developer.ibm.com/patterns/create-a-cognitive-news-search-app/)
+- [Create an app to perform intelligent searches on data](https://developer.ibm.com/patterns/create-an-app-to-perform-intelligent-searches-on-data/)
 
-#### Data science
+#### Kubernetes
 
-Analyze structured and unstructured data to extract knowledge and insights related to urgent issues.
+Deploy your web applications in a highly scalable, flexible modern containerized environment.
 
-- [Link 1](https://developer.ibm.com/callforcode/technical-library/)
-- [Link 2](https://developer.ibm.com/callforcode/technical-library/)
-- [Link 3](https://developer.ibm.com/callforcode/technical-library/)
+- [Deploy a React app on Kubernetes](https://developer.ibm.com/components/react/patterns/build-an-e-learning-portal-with-watson-media/)
 
-#### Internet of Things
+#### Cloudant
 
-Collect and analyze device sensor data to take corrective or preventative action automatically.
+A NoSQL JSON document database based on Apache CouchDB, with a free trial on IBM Cloud
 
-- [Link 1](https://developer.ibm.com/callforcode/technical-library/)
-- [Link 2](https://developer.ibm.com/callforcode/technical-library/)
-- [Link 3](https://developer.ibm.com/callforcode/technical-library/)
+- [Connecting Cloudant DBaaS to a Node.js app](https://developer.ibm.com/tutorials/learn-nodejs-node-with-cloudant-dbaas/)
 
-#### Platform development
+#### Web scraping
 
-Identify the right environment, software, and runtime to power and scale your solution.
+Analyze available market data to make automated decisions.
 
-- [Link 1](https://developer.ibm.com/callforcode/technical-library/)
-- [Link 2](https://developer.ibm.com/callforcode/technical-library/)
-- [Link 3](https://developer.ibm.com/callforcode/technical-library/)
+- [Build an optimal product price recommendation system](https://developer.ibm.com/patterns/analyze-e-commerce-websites-and-recommend-optimal-product-pricing/)
 
 #### Data sets
 
