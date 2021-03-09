@@ -84,6 +84,12 @@ Analyze available market data to make automated decisions.
 
 - [Build an optimal product price recommendation system](https://developer.ibm.com/patterns/analyze-e-commerce-websites-and-recommend-optimal-product-pricing/)
 
+#### Fastify
+
+Power the back-end API with a fast and low overhead web framework for Node.js.
+
+- [Creating a Fastify application](https://www.fastify.io/docs/latest/Getting-Started/)
+
 #### Data sets
 
 These public data sets provide information on the problem.
