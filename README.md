@@ -72,6 +72,13 @@ Deploy your web applications in a highly scalable, flexible modern containerized
 
 - [Deploy a React app on Kubernetes](https://developer.ibm.com/components/react/patterns/build-an-e-learning-portal-with-watson-media/)
 
+#### New Relic
+Get observability for your Kubernetes environment and your microservies.
+
+- [Register for a free New Relic account](https://newrelic.com/signup)
+- Log in to your New Relic account and follow the guided install for Kubernetes
+- [Learn how to use the Kubernetes Cluster Explorer](https://www.youtube.com/watch?v=RKaEt26HjhI&ab_channel=NewRelic)
+
 #### Cloudant
 
 A NoSQL JSON document database based on Apache CouchDB, with a free trial on IBM Cloud
