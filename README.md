@@ -117,7 +117,7 @@ Extract and enrich data with a powerful analytics engine, optimizing searches wi
 
 #### Kubernetes
 
-Deploy your web applications in a highly scalable, flexible modern containerized environment.
+Deploy your web applications in a highly scalable, flexible, modern containerized environment.
 
 - [IBM Kubernetes Service](https://www.ibm.com/cloud/kubernetes-service)
 - [Deploy a React app on Kubernetes](https://developer.ibm.com/components/react/patterns/build-an-e-learning-portal-with-watson-media/)
