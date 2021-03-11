@@ -103,7 +103,7 @@ Improve waste collecting and recycling
 You can create a solution based on the proposed solution architecture above by exploring the following resources on the [IBM Developer](https://developer.ibm.com/) site.
 
 ### Resources
-
+We have created a [collection of references](/references.md) which you may find useful. This includes links to metrics, standards bodies, standards, existing marketplaces, videos etc. 
 #### Watson Discovery
 
 Extract and enrich data with a powerful analytics engine, optimizing searches with the use of Natural Language Processing.
