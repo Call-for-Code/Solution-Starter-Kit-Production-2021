@@ -87,7 +87,7 @@ Improve waste collecting and recycling
 
 ## The architecture
 
-![Tech architecture](./images/arch.png)
+![Tech architecture](./images/responsible-production-consumption.png)
 
 1. **User** interacts with a **web application** for the marketplace.
 2. **React** app with communication to back end APIs.
