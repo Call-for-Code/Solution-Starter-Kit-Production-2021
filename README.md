@@ -77,6 +77,7 @@ Extended product lifetime through repairability
 | A repair shop | can offer expertise and services to repair goods | via a safe marketplace to communicate with consumers |
 
 #Idea 3
+
 Improve waste collecting and recycling
 
 |Who|What|How|
@@ -86,7 +87,7 @@ Improve waste collecting and recycling
 
 ## The architecture
 
-![Tech architechture](./images/arch.png)
+![Tech architecture](./images/arch.png)
 
 1. **User** interacts with a **web application** for the marketplace.
 2. **React** app with communication to back end APIs.
@@ -144,22 +145,6 @@ Power the back-end API with a fast and low overhead web framework for Node.js.
 
 - [Creating a Fastify application](https://www.fastify.io/docs/latest/Getting-Started/)
 
-#### Data sets
-
-These public data sets provide information on the problem.
-
-- [Link 1](https://developer.ibm.com/callforcode/technical-library/)
-- [Link 2](https://developer.ibm.com/callforcode/technical-library/)
-- [Link 3](https://developer.ibm.com/callforcode/technical-library/)
-
-#### NGO documents
-
-These are the go-to documents for measuring impact and progress against the key issue.
-
-- [Link 1](https://developer.ibm.com/callforcode/technical-library/)
-- [Link 2](https://developer.ibm.com/callforcode/technical-library/)
-- [Link 3](https://developer.ibm.com/callforcode/technical-library/)
-
 ## Contributing
 
 Please read [CONTRIBUTING.md](CONTRIBUTING.md) for details on our code of conduct, and the process for submitting pull requests.
@@ -167,6 +152,7 @@ Please read [CONTRIBUTING.md](CONTRIBUTING.md) for details on our code of conduc
 ## Contributors
 
 - Conor O'Neill
+- Stijn Polfliet
 - Daniel Rodrigues
 - DebjaniChatterjee
 - Dipali Chatterjee
