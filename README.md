@@ -18,26 +18,64 @@ Worldwide economic production and consumption rest on the use of the natural env
 
 ## Short description
 
+This starter kit can help you begin your Call for Code solution. The starter kit pulls together resources to help you and your team use technology to create applications to tackle clean water and sanitation issues around the world.
+
 ### What's the problem?
 
-Recycling and recovery: One of the more pressing challenges in addressing waste and shifting to a more circular economy is the increasing complexity of products. Forexample, electronics are getting smaller and more sophisticated, making recovery and reuse of materials more challenging. Product designers must consider how to create products with end of life in mind (for example, fewer components), and we need to develop the infrastructure, policies, and systems to support repair, reuse, and recycling.
+The United Nations has established [Sustainable Development Goal 12](https://sdgs.un.org/goals/goal12) to help ensure the world moves towards sustainable consumption and production patterns. This goal is about systemic change, decoupling economic growth from environmental degradation and applying a lifecycle thinking approach, taking into account all phases of resource use to do more and better with less. It is also about increasing resource efficiency and promoting sustainable lifestyles. It can also contribute substantially to poverty alleviation and the transition towards low-carbon and green economies. Production and consumption of goods and services should drive economic growth and improve quality of life, but with fewer natural resources and less environmental impact across the life cycle. 
 
 ### How can technology help?
 
-Technology can help to,
+Technology can help in many ways, from recommendations on energy efficiency to highlighting the carbon footprint of online purchases. 
 
-- Create a transparent and trustworthy platform for trading resources and knowledge, and access to a community of experts.
-- Enable producers and consumers to build and buy products in a sustainable way for our society:
-  - By reducing waste and increasing the use of recycled materials
-  - By improving overall repairability of products
+For example, the [Plastic Bank](https://plasticbank.com/) leverages blockchain and [IBM Cloud](https://www.ibm.com/cloud) technologies to create an application that helps monetize ocean plastic. The problem of plastic pollution in the world’s oceans has gained increasing visibility of late. Although rising awareness is a positive, it’s done little to curb the root of the problem, the estimated eight million metric tons of plastics that go into the oceans every year. Plastic Bank has the vision to set up recycling systems in economically disadvantaged parts of the world that would enable local citizens to monetize plastic pollution. Plastic Bank developed a security-rich, scalable reward system—a blockchain banking platform—that runs on IBM Cloud. 
 
 ### The idea
 
-Support sustainable production with recycled materials. To do that, there are two parties involved,
+Recycling and recovery is one of the more pressing challenges in addressing waste and shifting to a more circular economy is the increasing complexity of products. 
+For example,electronics are getting smaller and more sophisticated, making recovery and reuse of materials more challenging. Product designers must consider how to create products with end of life in mind (for example, fewer components), and we need to develop the infrastructure, policies, and systems to support repair, reuse, and recycling. 
+
+In order to do that, we could,
+
+Enable producers and consumers to build and buy products in a sustainable way for our society:
+- By reducing waste and increasing the use of recycled materials
+- By improving overall repairability of products
+
+thereby,
+
+- Creating a transparent and trustworthy platform for trading resources and knowledge, with access to a community of experts.
+- Enabling producers and consumers to build and buy products in a sustainable way for our society:
+  - By reducing waste and increasing the use of recycled materials
+  - By improving overall repairability of products
+
+To support sustainable production with recycled materials, there are two parties involved,
 
 **A producer or a manufacturer**, who can find and compare price, quality and carbon impact of recycled materials while learning about best practices for recyclable processing through a trustworthy, real-time trading platform.
 
 **A Recycled material Supplier** who can Sell recycled resources directly to producers through a marketplace at competitive rates.
+
+### More Solution Ideas
+
+This section gives you an overview and various example ideas that can get you started on your path to building your solution. Please note that these ideas are examples only and your solutions are *not limited* to just these. Feel free to brainstrorm and ideate with your teams about the path you can take for *your* solution to be unique.
+
+#Idea 1
+
+Responsible consumption through repairability
+
+|Who|What  |How|
+|--|--|--|
+| A buyer of a product | can make a more informed decision based on how repairable, reusable and upgradable their potential purchase is|at a glance, thus reducing energy and product waste |
+
+Technology needed
+-
+-
+-
+
+#Idea 2
+|Who|What  |How|
+|--|--|--|
+||||
+
 
 ## The architecture
 
