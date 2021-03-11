@@ -2,7 +2,7 @@
 
 [![License](https://img.shields.io/badge/License-Apache2-blue.svg)](https://www.apache.org/licenses/LICENSE-2.0) [![Slack](https://img.shields.io/badge/Join-Slack-blue)](https://callforcode.org/slack) [![Website](https://img.shields.io/badge/View-Website-blue)](https://code-and-response.github.io/Project-Sample/)
 
-Worldwide economic production and consumption rest on the use of the natural environment and resources in a way that continues to have destructive impacts on the planet. Economic and social progress over the last century has been accompaniedby environmental degradation that is endangering the very systems on which our future development depends. The United Nations has established Sustainable Development Goal 12to help ensure the world moves towards sustainable consumption and production patterns. This goal is about systemic change, decoupling economic growth from environmental degradation and applying a lifecycle thinking approach, taking into account all phases of resource use to do more and better with less. It is also about increasing resource efficiency and promoting sustainable lifestyles. It can also contribute substantially to poverty alleviation and the transition towards low-carbon and green economies. Production and consumption of goods and services should drive economic growth and improve quality of life, but with fewer natural resources and less environmental impact across the life cycle.
+Worldwide economic production and consumption rest on the use of the natural environment and resources in a way that continues to have destructive impacts on the planet. Economic and social progress over the last century has been accompanied by environmental degradation that is endangering the very systems on which our future development depends. The United Nations has established Sustainable Development Goal 12 to help ensure the world moves towards sustainable consumption and production patterns. This goal is about systemic change, decoupling economic growth from environmental degradation and applying a lifecycle thinking approach, taking into account all phases of resource use to do more and better with less. It is also about increasing resource efficiency and promoting sustainable lifestyles. It can also contribute substantially to poverty alleviation and the transition towards low-carbon and green economies. Production and consumption of goods and services should drive economic growth and improve quality of life, but with fewer natural resources and less environmental impact across the life cycle.
 
 ## Contents
 
@@ -33,7 +33,7 @@ For example, the [Plastic Bank](https://plasticbank.com/) leverages blockchain a
 ### The idea
 
 Recycling and recovery is one of the more pressing challenges in addressing waste and shifting to a more circular economy is the increasing complexity of products. 
-For example,electronics are getting smaller and more sophisticated, making recovery and reuse of materials more challenging. Product designers must consider how to create products with end of life in mind (for example, fewer components), and we need to develop the infrastructure, policies, and systems to support repair, reuse, and recycling. 
+For example, electronics are getting smaller and more sophisticated, making recovery and reuse of materials more challenging. Product designers must consider how to create products with end of life in mind (for example, fewer components), and we need to develop the infrastructure, policies, and systems to support repair, reuse, and recycling. 
 
 In order to do that, we could,
 
@@ -41,7 +41,7 @@ Enable producers and consumers to build and buy products in a sustainable way fo
 - By reducing waste and increasing the use of recycled materials
 - By improving overall repairability of products
 
-thereby,
+this can be achieved by,
 
 - Creating a transparent and trustworthy platform for trading resources and knowledge, with access to a community of experts.
 - Enabling producers and consumers to build and buy products in a sustainable way for our society:
@@ -52,7 +52,7 @@ To support sustainable production with recycled materials, there are two parties
 
 **A producer or a manufacturer**, who can find and compare price, quality and carbon impact of recycled materials while learning about best practices for recyclable processing through a trustworthy, real-time trading platform.
 
-**A Recycled material Supplier** who can Sell recycled resources directly to producers through a marketplace at competitive rates.
+**A Recycled material Supplier** who can sell recycled resources directly to producers through a marketplace at competitive rates.
 
 ### More Solution Ideas
 
@@ -62,20 +62,27 @@ This section gives you an overview and various example ideas that can get you st
 
 Responsible consumption through repairability
 
-|Who|What  |How|
+|Who|What|How|
 |--|--|--|
-| A buyer of a product | can make a more informed decision based on how repairable, reusable and upgradable their potential purchase is|at a glance, thus reducing energy and product waste |
-
-Technology needed
--
--
--
+| A buyer of a product | can make a more informed decision based on how repairable, reusable and upgradable their potential purchase is| at a glance through an industry-standard score, measuring energy and product waste |
+| A producer | can establish a more environment friendly brand | by sharing transparent information about the production process and overall repairability
 
 #Idea 2
-|Who|What  |How|
-|--|--|--|
-||||
 
+Extended product lifetime through repairability
+
+|Who|What|How|
+|--|--|--|
+| A consumer | can find product parts, knowledge and connect with experts to repair their goods | by finding information on a platform that connects repair experts with consumers |
+| A repair shop | can offer expertise and services to repair goods | via a safe marketplace to communicate with consumers |
+
+#Idea 3
+Improve waste collecting and recycling
+
+|Who|What|How|
+|--|--|--|
+| A waste recycler | can learn from others about more efficient processes to process waste | by sharing information and best practices |
+| A waste collector | can learn how to better collect and segregate waste | by communicating with waste recycler |
 
 ## The architecture
 
@@ -111,11 +118,13 @@ Deploy your web applications in a highly scalable, flexible modern containerized
 - [Deploy a React app on Kubernetes](https://developer.ibm.com/components/react/patterns/build-an-e-learning-portal-with-watson-media/)
 
 #### New Relic
+
 Get observability for your Kubernetes environment and your microservies.
 
-- [Register for a free New Relic account](https://newrelic.com/signup)
-- Log in to your New Relic account and follow the guided install for Kubernetes
+- [Register for a free New Relic account](https://newrelic.com/signup?utm_campaign=fy21-q4-dev_eco-all-ptnr-event-none-nr_org&utm_medium=event&utm_source=ptnr&utm_content=nr_org&fiscal_year=fy21&quarter=q4&program=dev_eco&ad_type=none&geo=all)
+- [Log in to your New Relic account](https://one.newrelic.com/) and follow the guided install for Kubernetes
 - [Learn how to use the Kubernetes Cluster Explorer](https://www.youtube.com/watch?v=RKaEt26HjhI&ab_channel=NewRelic)
+- [Upgrade to an Observability for Good account](https://newrelic.org/signup)
 
 #### Cloudant
 
