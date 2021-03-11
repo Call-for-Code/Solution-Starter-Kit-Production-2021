@@ -104,11 +104,14 @@ Improve waste collecting and recycling
 You can create a solution based on the proposed solution architecture above by exploring the following resources on the [IBM Developer](https://developer.ibm.com/) site.
 
 ### Resources
+
 We have created a [collection of references](/references.md) which you may find useful. This includes links to metrics, standards bodies, standards, existing marketplaces, videos etc. 
+
 #### Watson Discovery
 
 Extract and enrich data with a powerful analytics engine, optimizing searches with the use of Natural Language Processing.
 
+- [Watson Discovery](https://www.ibm.com/cloud/watson-discovery)
 - [Create a cognitive news search app](https://developer.ibm.com/patterns/create-a-cognitive-news-search-app/)
 - [Create an app to perform intelligent searches on data](https://developer.ibm.com/patterns/create-an-app-to-perform-intelligent-searches-on-data/)
 
@@ -116,6 +119,7 @@ Extract and enrich data with a powerful analytics engine, optimizing searches wi
 
 Deploy your web applications in a highly scalable, flexible modern containerized environment.
 
+- [IBM Kubernetes Service](https://www.ibm.com/cloud/kubernetes-service)
 - [Deploy a React app on Kubernetes](https://developer.ibm.com/components/react/patterns/build-an-e-learning-portal-with-watson-media/)
 
 #### New Relic
@@ -131,6 +135,7 @@ Get observability for your Kubernetes environment and your microservies.
 
 A NoSQL JSON document database based on Apache CouchDB, with a free trial on IBM Cloud
 
+- [IBM Cloudant](https://www.ibm.com/cloud/cloudant)
 - [Connecting Cloudant DBaaS to a Node.js app](https://developer.ibm.com/tutorials/learn-nodejs-node-with-cloudant-dbaas/)
 
 #### Web scraping
@@ -143,6 +148,7 @@ Analyze available market data to make automated decisions.
 
 Power the back-end API with a fast and low overhead web framework for Node.js.
 
+- [Fastify](https://www.fastify.io/)
 - [Creating a Fastify application](https://www.fastify.io/docs/latest/Getting-Started/)
 
 ## Contributing
@@ -154,7 +160,7 @@ Please read [CONTRIBUTING.md](CONTRIBUTING.md) for details on our code of conduc
 - Conor O'Neill
 - Stijn Polfliet
 - Daniel Rodrigues
-- DebjaniChatterjee
+- Debjani Chatterjee
 - Dipali Chatterjee
 - Georges-Henri Moll
 - Nicole Pitter Patterson
