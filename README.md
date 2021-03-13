@@ -85,6 +85,15 @@ Improve waste collecting and recycling
 | A waste recycler | can learn from others about more efficient processes to process waste | by sharing information and best practices |
 | A waste collector | can learn how to better collect and segregate waste | by communicating with waste recycler |
 
+#Idea 4
+
+Efficient waste collection
+
+|Who|What|How|
+|--|--|--|
+| A product user | can publish parts or goods they want to recycle | by publishing the information on a repository, with product/part ID, address and date |
+| A waste collector | can reserve their wastes to collect and organize their pick-up tour| by accessing the repository |
+
 ## The architecture
 
 ![Tech architecture](./images/responsible-production-consumption.png)
