@@ -34,7 +34,7 @@ For example, the [Plastic Bank](https://plasticbank.com/) uses blockchain and [I
 
 Recycling and recovery is one of the more pressing challenges in addressing waste and shifting to a more circular economy. The increasing complexity of products plays a large role in this. For example, electronics are getting smaller and more sophisticated, making recovery and reuse of materials more challenging. Product designers must consider how to create products with end-of-life in mind (for example, fewer components), and we need to develop the infrastructure, policies, and systems to support repair, reuse, and recycling. 
 
-To develop these policies we could enable producers and consumers to build and buy products in a sustainable way for our society, such as:
+To develop these policies, we could enable producers and consumers to build and buy products in a sustainable way for our society, such as:
 
 * By reducing waste and increasing the use of recycled materials
 * By improving overall repairability of products
