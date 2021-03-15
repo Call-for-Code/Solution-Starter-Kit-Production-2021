@@ -1,18 +1,33 @@
 # Useful References - Research for Responsible Production and Consumption
+This document will hopefully provide useful background information and help you to get started more quickly on building your solution.
+
+A very high-level overview of some of the stakeholders in a platform is as follows:
+
+![overview](/images/stakeholders.png)
 
 ## Videos
+We recommend that you start by watching these two videos to help frame the problem.
+* [Explaining the Circular Economy and How Society Can Re-think Progress ](https://www.youtube.com/watch?v=zCRKvDyyHmI)
+* [Can A Circular Economy Make Trash Obsolete?](https://www.youtube.com/watch?v=JgcWmE_2T6Q)
 
-* [https://www.youtube.com/watch?v=zCRKvDyyHmI](https://www.youtube.com/watch?v=zCRKvDyyHmI)
-* [https://www.youtube.com/watch?v=JgcWmE_2T6Q](https://www.youtube.com/watch?v=JgcWmE_2T6Q)
-
+## KPMG Report
+This KPMG report is an excellent read about the opportunities in plastic recycling:
+* [The Plastic Recycling Opportunity](https://assets.kpmg/content/dam/kpmg/xx/pdf/2019/10/the-plastic-recycling-opportunity.pdf)
+* Obstacles highlighted:
+  * Quality
+  * Price
+  * Regulatory restrictions
+  * Fragmented sector with room for improvement in efficiency, quality and profitability
 
 ## Metrics/Scores/Ratings-Systems
+It is probably worthwhile looking at some of metrics used and methods of reporting on environmental impact. 
+
 * GRI Global Reporting - [https://www.globalreporting.org/](https://www.globalreporting.org/)
   * Global standard setter for impact reporting
   * Including [waste standards](https://www.globalreporting.org/standards/standards-development/topic-standard-project-for-waste/)
   * [GRI 306: Waste 2020 factsheet PDF](https://www.globalreporting.org/media/vuhj4yk1/gri-waste-leaflet.pdf) 
 * Environmental Metrics like water use, land use, GHG emissions
-  * Kering EP&L [https://kering-group.opendatasoft.com/pages/methodology/](https://kering-group.opendatasoft.com/pages/methodology/)
+  * The [Kering EP&L](https://kering-group.opendatasoft.com/pages/methodology/) is an Environmental P&L that looks at:
     * Air Pollution
       * Emissions of pollutants in kg
     * Greenhouse Gas Emissions
@@ -25,14 +40,14 @@
       * Water use in metres cubed
     * Water pollution
       * Specific compounds in kg
-* Emissions
+* Emissions are categorised as follows:
   * Scope 1 – All Direct Emissions from the activities of an organisation or under their control. Including fuel combustion on site such as gas boilers, fleet vehicles and air-conditioning leaks.
   * Scope 2 – Indirect Emissions from electricity purchased and used by the organisation. Emissions are created during the production of the energy and eventually used by the organisation.
   * Scope 3 – All Other Indirect Emissions from activities of the organisation, occuring from sources that they do not own or control. These are usually the greatest share of the carbon footprint, covering emissions associated with business travel, procurement, waste and water.
-* Tools
+* Some Footprint tools include
   * [https://compareyourfootprint.com/](https://compareyourfootprint.com/)
   * [https://ghgprotocol.org/calculation-tools](https://ghgprotocol.org/calculation-tools)
-* Reparability Scores like iFixit or EU initiative
+* If reparability is in-scope for your solution then, Scores like iFixit or the recent EU repairability initiative may be relevant:
   * iFixit
     * [https://www.ifixit.com/smartphone-repairability](https://www.ifixit.com/smartphone-repairability)
   * EU Repairability
@@ -46,7 +61,8 @@
 * Certification systems like Fairtrade or Rainforest Alliance
 
 
-## Standards and Organisations - Potential to partner here
+## Standards and Organisations
+There are many standards and standards-bodies involved in recycling and related activities. Rather than creating a new competing standard, there may be opportunities to partner with them.
 * European Committee for Electrotechnical Standardization (CENELEC)
 * Waste Electrical & Electronic Equipment (WEEE)
 * WEEELABEX - [https://www.weeelabex.org/](https://www.weeelabex.org/)
@@ -75,7 +91,7 @@
   * The Sustainability Accounting Standards Board (SASB) is an independent nonprofit organization that sets standards to guide the disclosure of financially material sustainability information by companies to their investors. SASB Standards identify the subset of environmental, social, and governance (ESG) issues most relevant to financial performance in each of 77 industries. 
   * [https://www.sasb.org/about/](https://www.sasb.org/about/)
 * Ceres
-  * We work with the most influential capital market leaders to solve the world’s greatest sustainability challenges. Through our powerful networks and global collaborations of investors, companies and nonprofits, we drive action and inspire equitable market-based and policy solutions throughout the economy.
+  * Ceres works with the most influential capital market leaders to solve the world’s greatest sustainability challenges. Through their networks and global collaborations of investors, companies and nonprofits, they drive action and inspire equitable market-based and policy solutions throughout the economy.
   * [https://www.ceres.org/](https://www.ceres.org/)
   * Networks: [https://www.ceres.org/networks](https://www.ceres.org/networks)
 * UNEP - UN Environment Program
@@ -83,56 +99,49 @@
  
 
 ### Existing Platforms
-* KPMG Report
-  * [https://assets.kpmg/content/dam/kpmg/xx/pdf/2019/10/the-plastic-recycling-opportunity.pdf](https://assets.kpmg/content/dam/kpmg/xx/pdf/2019/10/the-plastic-recycling-opportunity.pdf)
-  * Obstacles highlighted:
-    * Quality
-    * Price
-    * Regulatory restrictions
-    * Fragmented sector with room for improvement in efficiency, quality and profitability
-* What's out there already that companies are using?
-* Existing recycle marketplaces
-  * [http://e-stewards.org/](http://e-stewards.org/) (***)
-  * [http://e-stewards.org/find-a-recycler/](http://e-stewards.org/find-a-recycler/)
-  * Recycled Hub - [https://www.recycledhub.com/](https://www.recycledhub.com/)
-  * Cirplus - [https://ec.europa.eu/eipp/desktop/en/projects/project-11986.html](https://ec.europa.eu/eipp/desktop/en/projects/project-11986.html)
-  * Recycle Blu - [https://www.recycleblu.com/](https://www.recycleblu.com/)
-  * Balebid, the global recycling marketplace - [https://www.balebid.com/](https://www.balebid.com/) (******** Very interesting)
-  * Plastic Resale Marketplace - [https://www.plasticresale.com/marketplace/](https://www.plasticresale.com/marketplace/)
-  * Oceanworks, recycled plastic marketplace - [https://oceanworks.co/](https://oceanworks.co/)
-  * Waste Outlet, trading platform for waste - [https://www.waste-outlet.com/](https://www.waste-outlet.com/)
-  * European Recycling Platform - [https://erp-recycling.org/](https://erp-recycling.org/)
-  * Terracycle, social enterprise - [https://www.terracycle.com/en-US/](https://www.terracycle.com/en-US/)
-  * European Circular Economy Stakeholder Platform - [https://circulareconomy.europa.eu/platform/en](https://circulareconomy.europa.eu/platform/en) (****)
-  * Plunc, simply sell your tech - [https://plunc.com/sell](https://plunc.com/sell)
-  * Queen of Raw, Buy and Sell Sustainable and Deadstock Fabrics - [https://www.queenofraw.com/](https://www.queenofraw.com/)
-  * Depop and Vinted for used clothes - [https://www.vinted.co.uk/](https://www.vinted.co.uk/), [https://www.depop.com/](https://www.depop.com/)
-  * Material Exchange, Developer of sustainable fashion platform which digitizes supply chains for transparency and efficiency. - [https://material-exchange.com/](https://material-exchange.com/) (***)
-* What is Alibaba doing in this space?
-  * Ant Forest - [https://unfccc.int/climate-action/momentum-for-change/planetary-health/alipay-ant-forest](https://unfccc.int/climate-action/momentum-for-change/planetary-health/alipay-ant-forest)
-* What online community platforms are there?
-* What expert communities and networks exist?
-* What consumer networks exist?
-* What incentivisation systems exist to drive usage of these platforms?
+It is clearly important not to re-invent the wheel when it comes to building a platform or marketplace. Whilst there are some out there, our research did not uncover a huge number. We would recommend doing some more research and reaching out to people in the industry to confirm this.
 
+* Existing recycle marketplaces
+  * [eStewards](http://e-stewards.org/)
+    * [Find a recycler](http://e-stewards.org/find-a-recycler/)
+  *  [Recycled Hub](https://www.recycledhub.com/)
+  * [Cirplus](https://ec.europa.eu/eipp/desktop/en/projects/project-11986.html)
+  * [Recycle Blu](https://www.recycleblu.com/)
+  * [Balebid](https://www.balebid.com/), the global recycling marketplace
+  * [Plastic Resale Marketplace](https://www.plasticresale.com/marketplace/)
+  * [Oceanworks](https://oceanworks.co/), recycled plastic marketplace 
+  * [Waste Outlet](https://www.waste-outlet.com/), trading platform for waste
+  * [European Recycling Platform](https://erp-recycling.org/)
+  * [Terracycle](https://www.terracycle.com/en-US/), social enterprise
+  * [European Circular Economy](https://circulareconomy.europa.eu/platform/en) Stakeholder Platform
+  * [Plunc](https://plunc.com/sell), simply sell your tech
+  * [Queen of Raw](https://www.queenofraw.com/), Buy and Sell Sustainable and Deadstock Fabrics
+  * [Vinted](https://www.vinted.co.uk/) and [Depop](https://www.depop.com/), for used clothes 
+  * [Material Exchange](https://material-exchange.com/), Sustainable fashion platform 
+* Alibaba's activities in this space
+  * [ Ant Forest](https://unfccc.int/climate-action/momentum-for-change/planetary-health/alipay-ant-forest)
+* Other areas of research to complete include:
+  * What online community platforms are there?
+  * What expert communities and networks exist?
+  * What consumer networks exist?
+  * What incentivisation systems exist to drive usage of these platforms?
 
 ## Datasets
+Our research did not find any obvious sources of live transactional data or APIs for marketplaces. Most of the data is aggregated and available for analysis in various formats. e.g. types of waste generated in various countries. Some of the questions we asked included:
+
 * What data is already available about materials?
 * What data is already available about products?
 * What data is already available about producers/suppliers?
 * What global orgs are tracking this? (UN, EU, Greenpeace, Friends of the Earth etc)?
 * What APIs are available?
-    * Aggregate recycling data from EU as JSON etc
 * What APIs or data is available from Commercial Platforms?
-* Datasets Found
-  * Lifecycle Inventory (LCI) Database - [https://www.ecoinvent.org/home.html](https://www.ecoinvent.org/home.html)
+
+
+The datasets we initially found were:
+  * [Lifecycle Inventory (LCI) Database](https://www.ecoinvent.org/home.html)
   * [EU OpenData Portal](https://data.europa.eu/euodp/en/home)
   * [Trade in recyclable raw materials by waste](https://data.europa.eu/euodp/en/data/dataset/0LQUHC5DcOiRGdK8gBMZA)
   * [Trade in recyclable raw materials](https://data.europa.eu/euodp/en/data/dataset/Yyuc76W0we0ZaysVAAiWQ)
   * [European Data Portal](https://www.europeandataportal.eu/en)
-  * E.g. [Datasets with “recycle” mentioned](https://www.europeandataportal.eu/data/datasets?locale=en&minScoring=0&query=recycle&page=1)
-
-## Overview
-A Marketplace and Network to empower Recyclers, Producers and Consumers to make informed use of the Circular Economy.
-![drawing](/images/stakeholders.png)
+  * [EU Datasets with “recycle” mentioned](https://www.europeandataportal.eu/data/datasets?locale=en&minScoring=0&query=recycle&page=1)
 
