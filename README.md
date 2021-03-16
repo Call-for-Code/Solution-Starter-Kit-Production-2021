@@ -113,7 +113,7 @@ We have created a [collection of references](/references.md) that you might find
 
 Extract and enrich data with a powerful analytics engine, optimizing searches with the use of natural language processing.
 
-- [Watson Discovery](https://www.ibm.com/cloud/watson-discovery)
+- [Watson Discovery](https://cloud.ibm.com/catalog/services/discovery)
 - [Create a cognitive news search app](https://developer.ibm.com/patterns/create-a-cognitive-news-search-app/)
 - [Create an app to perform intelligent searches on data](https://developer.ibm.com/patterns/create-an-app-to-perform-intelligent-searches-on-data/)
 
@@ -121,7 +121,7 @@ Extract and enrich data with a powerful analytics engine, optimizing searches wi
 
 Deploy your web applications in a highly scalable, flexible, modern containerized environment.
 
-- [IBM Kubernetes Service](https://www.ibm.com/cloud/kubernetes-service)
+- [IBM Kubernetes Service](https://cloud.ibm.com/kubernetes/catalog/about)
 - [Deploy a React app on Kubernetes](https://developer.ibm.com/components/react/patterns/build-an-e-learning-portal-with-watson-media/)
 
 #### New Relic
@@ -137,7 +137,7 @@ Get observability for your Kubernetes environment and your microservies.
 
 A NoSQL JSON document database based on Apache CouchDB, with a free trial on IBM Cloud.
 
-- [IBM Cloudant](https://www.ibm.com/cloud/cloudant)
+- [IBM Cloudant](https://cloud.ibm.com/catalog/services/cloudant)
 - [Connecting Cloudant DBaaS to a Node.js app](https://developer.ibm.com/tutorials/learn-nodejs-node-with-cloudant-dbaas/)
 
 #### Web scraping
