@@ -128,7 +128,7 @@ Deploy your web applications in a highly scalable, flexible, modern containerize
 
 Get observability for your Kubernetes environment and your microservies.
 
-- [Register for a free New Relic account](https://newrelic.com/signup?utm_campaign=fy21-q4-dev_eco-all-ptnr-event-none-nr_org&utm_medium=event&utm_source=ptnr&utm_content=nr_org&fiscal_year=fy21&quarter=q4&program=dev_eco&ad_type=none&geo=all)
+- [Register for a free New Relic account](https://newrelic.com/signup?utm_source=callforcode2021)
 - [Log in to your New Relic account](https://one.newrelic.com/) and follow the guided installation for Kubernetes
 - [Learn how to use the Kubernetes Cluster Explorer](https://www.youtube.com/watch?v=RKaEt26HjhI&ab_channel=NewRelic)
 - [Upgrade to an Observability for Good account](https://newrelic.org/signup)
