@@ -159,13 +159,13 @@ Please read about [contributing](CONTRIBUTING.md) to this repository for details
 
 ## Contributors
 
-- Conor O'Neill
-- Stijn Polfliet
-- Daniel Rodrigues
-- Debjani Chatterjee
+- [Conor O'Neill](https://www.linkedin.com/in/conoroneill/)
+- [Stijn Polfliet](https://www.linkedin.com/in/spolfliet/)
+- [Daniel Rodrigues](https://developer.ibm.com/profiles/danitrod/)
+- [Debjani Chatterjee](https://developer.ibm.com/profiles/debjani93/)
 - Dipali Chatterjee
-- Georges-Henri Moll
-- Nicole Pitter Patterson
+- [Georges-Henri Moll](https://developer.ibm.com/profiles/georges-henri.moll/)
+- [Nicole Pitter Patterson](https://www.linkedin.com/in/nicole-pitter-patterson/?originalSubdomain=ch)
 
 Additionally, see the list of [contributors](https://github.com/Call-for-Code/Starter-Kit-Template-2021/graphs/contributors) who participated in the creation of this starter kit.
 
