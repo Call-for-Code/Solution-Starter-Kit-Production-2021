@@ -122,7 +122,6 @@ Extract and enrich data with a powerful analytics engine, optimizing searches wi
 Deploy your web applications in a highly scalable, flexible, modern containerized environment.
 
 - [IBM Kubernetes Service](https://cloud.ibm.com/kubernetes/catalog/about)
-- [Deploy a React app on Kubernetes](https://developer.ibm.com/components/react/patterns/build-an-e-learning-portal-with-watson-media/)
 
 #### New Relic
 
