@@ -1,4 +1,4 @@
-# Call for Code solution starter kit: Responsible production and consumption
+# Call for Code solution starter kit: Responsible production and green consumption
 
 [![License](https://img.shields.io/badge/License-Apache2-blue.svg)](https://www.apache.org/licenses/LICENSE-2.0) [![Slack](https://img.shields.io/badge/Join-Slack-blue)](https://callforcode.org/slack) [![Website](https://img.shields.io/badge/View-Website-blue)](https://code-and-response.github.io/Project-Sample/)
 
@@ -18,11 +18,11 @@ Worldwide economic production and consumption rest on the use of the natural env
 
 ## Short description
 
-This starter kit can help you begin your Call for Code solution. The starter kit pulls together resources to help you and your team use technology to create applications to tackle clean responsible production and consumption.
+This starter kit can help you begin your Call for Code solution. The starter kit pulls together resources to help you and your team use technology to create applications to tackle clean responsible production and green consumption.
 
 ### What's the problem?
 
-The United Nations has established [Sustainable Development Goal 12](https://sdgs.un.org/goals/goal12) to help ensure that the world moves towards sustainable consumption and production patterns. This goal is about systemic change, decoupling economic growth from environmental degradation, and applying a lifecycle thinking approach, taking into account all phases of resource use to do more and better with less. It is about increasing resource efficiency and promoting sustainable lifestyles. It can contribute substantially to poverty alleviation and the transition towards low-carbon and green economies. Production and consumption of goods and services should drive economic growth and improve quality of life, but with fewer natural resources and less environmental impact across the lifecycle. 
+The United Nations has established [Sustainable Development Goal 12](https://sdgs.un.org/goals/goal12) to help ensure that the world moves towards sustainable consumption and production patterns. This goal is about systemic change, decoupling economic growth from environmental degradation, and applying a lifecycle thinking approach, taking into account all phases of resource use to do more and better with less. It is about increasing resource efficiency and promoting sustainable lifestyles. It can contribute substantially to poverty alleviation and the transition towards low-carbon and green economies. Production and green consumption of goods and services should drive economic growth and improve quality of life, but with fewer natural resources and less environmental impact across the lifecycle. 
 
 ### How can technology help?
 
