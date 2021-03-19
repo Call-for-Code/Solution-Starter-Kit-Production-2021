@@ -87,6 +87,9 @@ Efficient waste collection
 | A product user | can publish parts or goods they want to recycle | by publishing the information on a repository, with product/part ID, address, and date |
 | A waste collector | can reserve their waste to collect and organize their pick-up tour | by accessing the repository |
 
+## Demo video
+[![Watch the video](https://img.youtube.com/vi/3gcJrSZfsx8/0.jpg)](https://www.youtube.com/watch?v=3gcJrSZfsx8)
+
 ## The architecture
 
 ![Tech architecture](./images/responsible-production-consumption.png)
