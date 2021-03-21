@@ -160,7 +160,7 @@ Power the back-end API with a fast and low overhead web framework for Node.js.
 
 Please read about [contributing](CONTRIBUTING.md) to this repository for details on our code of conduct and the process for submitting pull requests.
 
-## Authors
+## Contributors
 
 - [Conor O'Neill](https://www.linkedin.com/in/conoroneill/)
 - [Stijn Polfliet](https://www.linkedin.com/in/spolfliet/)
@@ -169,6 +169,10 @@ Please read about [contributing](CONTRIBUTING.md) to this repository for details
 - Dipali Chatterjee
 - [Georges-Henri Moll](https://developer.ibm.com/profiles/georges-henri.moll/)
 - [Nicole Pitter Patterson](https://www.linkedin.com/in/nicole-pitter-patterson/?originalSubdomain=ch)
+
+<a href="https://github.com/Call-for-Code/Solution-Starter-Kit-Production-2021/graphs/contributors">
+  <img src="https://contributors-img.web.app/image?repo=Call-for-Code/Solution-Starter-Kit-Production-2021" />
+</a>
 
 ## License
 
