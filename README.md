@@ -170,8 +170,6 @@ Please read about [contributing](CONTRIBUTING.md) to this repository for details
 - [Georges-Henri Moll](https://developer.ibm.com/profiles/georges-henri.moll/)
 - [Nicole Pitter Patterson](https://www.linkedin.com/in/nicole-pitter-patterson/?originalSubdomain=ch)
 
-Additionally, see the list of [contributors](https://github.com/Call-for-Code/Starter-Kit-Template-2021/graphs/contributors) who participated in the creation of this starter kit.
-
 ## License
 
 This starter kit is licensed under the Apache 2 License - see the [LICENSE](LICENSE) file for details
