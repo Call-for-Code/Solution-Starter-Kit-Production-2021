@@ -160,7 +160,7 @@ Power the back-end API with a fast and low overhead web framework for Node.js.
 
 Please read about [contributing](CONTRIBUTING.md) to this repository for details on our code of conduct and the process for submitting pull requests.
 
-## Contributors
+## Authors
 
 - [Conor O'Neill](https://www.linkedin.com/in/conoroneill/)
 - [Stijn Polfliet](https://www.linkedin.com/in/spolfliet/)
