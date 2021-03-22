@@ -11,10 +11,8 @@ Worldwide economic production and consumption rest on the use of the natural env
 1. [The architecture](#the-architecture)
 1. [Getting started](#getting-started)
 1. [Contributing](#contributing)
-1. [Versioning](#versioning)
 1. [Authors](#contributors)
 1. [License](#license)
-1. [Acknowledgments](#acknowledgments)
 
 ## Short description
 
@@ -177,7 +175,3 @@ Please read about [contributing](CONTRIBUTING.md) to this repository for details
 ## License
 
 This starter kit is licensed under the Apache 2 License - see the [LICENSE](LICENSE) file for details
-
-## Acknowledgments
-
-- Based on [Billie Thompson's README template](https://gist.github.com/PurpleBooth/109311bb0361f32d87a2).
